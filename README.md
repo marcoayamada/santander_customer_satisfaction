@@ -6,7 +6,7 @@ Será que estamos prestando um bom atendimento para nossos clientes? É justamen
 
 ### Análise das features e processo de machine learning
 
-O notebook do projeto pode ser acessado aqui: https://github.com/marcoayamada/santander_customer_satisfaction/blob/master/analysis%20notebook.ipynb
+https://nbviewer.jupyter.org/github/marcoayamada/santander_customer_satisfaction/blob/master/analysis%20notebook.ipynb - [[Github](https://github.com/marcoayamada/santander_customer_satisfaction/blob/master/analysis%20notebook.ipynb)]
 
 Mais informações:
 - https://www.kaggle.com/c/santander-customer-satisfaction
